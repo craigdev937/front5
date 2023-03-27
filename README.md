@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-with-css-grid-BYSPT47SWX)
+- Live Site URL: [Add live site URL here](https://craigdev937.github.io/front5/)
 
 ## My process
 
